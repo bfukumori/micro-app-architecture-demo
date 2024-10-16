@@ -1,14 +1,7 @@
-# Micro app architecture with expo
-
-![alt text](docs/assets/conference.png "Conference photo")
-This repo contains the code showcased at Appjs conference during the talk "Micro app architecture with expo".
-
-[See talk here](https://youtu.be/j6nNdPciqn0)
-
 ## Installation
 
 Start by installing all dependencies:
-`yarn` from root. To run the main app navigate to apps/mobile and run `yarn start`. To run any of the micro apps run `yarn start` from either apps/payments or apps/support.
+`yarn` from root. To run the main app navigate to apps/mobile and run `yarn start`. To run any of the micro apps run `yarn start` from either apps/mobile or apps/higienization.
 
 ## Background
 
